@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#quiz-container {
+  width: 300px;
+  margin: 0 auto;
+}
+
+#letters {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#answer {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+#submit {
+  width: 100%;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#result {
+  font-size: 18px;
+  color: red;
+}
